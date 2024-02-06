@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sairamchow5555
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Python, ReactJs and NestJs
+- 🌱 I’m currently learning ... Python, ReactJs and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sairam.chundru1432@gmail.com
 
