@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sairamchow5555
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Python, ReactJs and React Native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web and Mobile Development
+- 🌱 I’m currently working on ... ReactJs and React Native
+- 💞️ I’m looking to collaborate ... 
 - 📫 How to reach me ... sairam.chundru1432@gmail.com
 
 <!---
